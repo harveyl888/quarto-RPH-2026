@@ -1,13 +1,13 @@
 ---
-title: R/Pharma 2025
+title: R/Pharma 2026
 format:
   revealjs:
     logo: logotext_small.png
-    footer: R/Pharma 2025
+    footer: R/Pharma 2026
     css: styles.css
 ---
 
-## Welcome to R/Pharma 2025
+## Welcome to R/Pharma 2026
 
 <script src="https://cdn.lordicon.com/lordicon-1.1.0.js"></script>
 <lord-icon
@@ -17,7 +17,7 @@ format:
 </lord-icon>
 
 ::: footer
-R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
+R/Pharma 2026  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 :::
 
 ## Housekeeping
@@ -37,7 +37,7 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 ## What is R/Pharma?
 
 ::: {.small}
--  Volunteer organization of passionate R pactitioners in the Pharmaceutical and Biotech industries
+-  Volunteer organization of passionate R practitioners in the Pharmaceutical and Biotech industries
 -  This is our Annual Conference
     -  Workshops, keynotes, talks and panels
     -  Fun stuff in the breaks
@@ -46,32 +46,29 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
     -  **email info@rinpharma.com to contribute**
     -  keep in touch through social media
 
--  We've been busy in 2025...
+-  We've been busy in 2026...
 :::
 
-## R/Pharma 2025 
+## R/Pharma 2026
 
 ::: {.incremental .small}
--  SDTM Workshop (200+ attendees)
--  R/Pharma summit @ posit::conf 2025 (Sep 15)
-    -  Over 100  representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech
+-  Fourth R/Pharma US summit @ posit::conf 2026 (Sep 13)
+    -  90+ representatives from 40+ companies contributed to discussions on R and open source in Pharma and biotech
+-  First R/Pharma European summit @ Novartis (Oct 5)
     -  Notes available on R/Pharma website
--  R/Pharma Diversity Alliance
-    - Hackathon - introducing new contributors to open source
--  R/Pharma Hangouts
--  Second R/Pharma genAI Day (Aug 19, 700+ attendees)
-    - Check R/Pharma website or YouTube channel for recordings.
--  New R/Pharma website ([https://rinpharma.com/](https://rinpharma.com/))
+-  Third R/Pharma genAI Day (Jun 16, 950 attendees)
+    - Check R/Pharma website or YouTube channel for recordings
+-  Keep up to date at ([https://rinpharma.com/](https://rinpharma.com/))
 :::
 
 ## R/Pharma APAC Track
 
 ::: {.small}
 
--  Second year running a scientific track for both EU/US and APAC.
+-  Third year running a scientific track for both EU/US and APAC.
 -  Almost 24 hours of R/Pharma!!!
 -  Daniel Sabanés Bové and APAC organizing committee managing APAC track
-    -  keynotes, plus Europe/US keynote replays followed by discussion panels
+    -  keynotes, plus Europe/US keynote replay followed by discussion panels
     -  presentations
     -  workshops
 -  Presentations from both APAC and Europe/US will be available in our YouTube channel after R/Pharma
@@ -81,46 +78,48 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
 ## R/Pharma Workshop Presenters
 
-18 Free Workshops at R/Pharma this year {{< li rhmbrqqg trigger=loop class=larger >}}
+24 Free Workshops + 1 hackathon at R/Pharma {{< li rhmbrqqg trigger=loop class=larger >}}
 
 :::: {.columns .small}
 
 ::: {.column width="33%"}
-Sarah Altman  
-Harshavardhan Bajoria  
-Jacqueline Buros-Novik  
 Michael Chow  
-Emily De La Rua  
-Xu Fei  
+Jeff Dickinson  
+Marcin Dubel  
+Matt Fidler  
 Rammprasad Ganapathy  
-David Gohel  
+Edward Gillian  
+Garrett Grolemund  
+Yi Guo  
+Michelle Harwood  
 Sam Hume
 :::
 
 ::: {.column width="33%"}
 Rich Iannone  
-Jeroen Janssens  
-Doug Kelkhoff  
-Aathira Anil Kumar  
+Mutaz M. Jaber  
+Jagadish Katam  
+Anne Keuneke  
+Max Kuhn  
 Daniel Lee  
-Nick Masel  
-Michael Mayer  
-Eli Miller  
-Friedrich Pahlke  
-Devin Pastoor
+Hana Lee  
+Kevin Lee  
+Kuenhung Lin  
+Shannon Pileggi
 :::
 
 ::: {.column width="33%"}
-Nina Qi  
 Nicola Rennie  
-Daniel Sabanés Bové   
-Mike Stackhouse  
-Juho Timonen  
-Dony Unardi  
+Bruno Rodrigues  
+Daniel Sabanés Bové  
+Daniel Sjoberg  
+Brian Varney  
 Isabella Velásquez  
-Nan Xiao  
-Abinaya Yogasekaram  
-Yilong Zhang
+Adrian Waddell  
+Justin Wilkins  
+Eric Zhang  
+Yilong Zhang  
+Joe Zhu
 :::
 
 ::::
@@ -134,7 +133,8 @@ Yilong Zhang
     -  {admiral} development team
     -  Novo Nordisk submissions team
     -  R Consortium Submissions Working Group
--  This year we're proud to present it to the Daniel Sjoberg and the {gtsummary} team for helping propel groups towards open source submissions
+    -  {gtsummary} development team
+-  This year we're proud to present it to Matt Fidler and everyone who has worked on {nlmixr2} for their contributions to the open source space.
 :::
 
 ## Thank You to R/Pharma Sponsors!
@@ -162,9 +162,10 @@ Yilong Zhang
 ::: {.small}
 -  Before/after R/Pharma and during breaks
     -  Network and visit Expo
-        -  Showcase your open source and community contributions in an Expo booth ([https://bit.ly/4oT8Q1t](https://bit.ly/4oT8Q1t))
--  Schedule: [https://rpharma-2025.sessionize.com/](https://rpharma-2025.sessionize.com/)
--  Wednesday and Thursday - check schedule for pre-recorded talks
+        -  Expo features booths from R/Pharma workshops
+        -  Coffee and chat 30 minutes before opening on each day
+-  Schedule: [https://rpharma-2026.sessionize.com/](https://rpharma-2026.sessionize.com/)
+-  Wednesday - check schedule for pre-recorded talks
 :::
 
 :::{.space-image}
@@ -174,9 +175,10 @@ Yilong Zhang
 
 ## SPECIAL ANNOUNCEMENTS
 
--  Wednesday: Joe Cheng and Eric Nantz (2PM EST)
-    - The LLM Lounge: Live-coding and conversation on using AI for data science
--  Thursday: Panel - J&J Submission Journey (1:30PM EST)
-    - look out for slido link in chat to submit questions
-- **These will not be recorded**
+-  Today: R Submissions panel (2:05PM EDT)
+    - R/Consortium: Ning Leng, Eric Nantz
+    - FDA: Paul Schuette, Hye Soo Cho, YouKyeon Chang
+    - Posit: Joe Cheng
+- look out for slido link in chat to submit questions
+- **This will not be recorded**
 
