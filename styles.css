@@ -1,0 +1,16 @@
+.small {
+  font-size: 80%
+}
+
+.smaller {
+  font-size: 70%
+}
+
+.space-image img {
+  margin-right: 30px
+}
+
+lord-icon.larger {
+  width: 75px;
+  height: 75px;
+}
