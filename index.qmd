@@ -24,13 +24,13 @@ R/Pharma 2026  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
 ::: {.smaller}
 -  General Guidelines
-    -  Terms and conditions - check the website at https://rinpharma.com/terms.html
+    -  Terms and conditions - check the website at [https://rinpharma.com/terms.html](https://rinpharma.com/terms.html)
     -  R/Pharma is a non-commercial conference.  Vendors are welcome to attend but as practitioners, not salespeople
     -  Please be patient with us - hosting a virtual conference is different {{< li ebvizisb trigger=loop >}}
 -  Asking for help
     -  Reach out in the **conference chat**
-    -  Slack: reach out in the **#help-me** channel in rinpharmaconf (**rinpharmaconf.slack.com**)
-    -  Contact form on **rinpharma.com**
+    -  Slack: reach out in the **#help-me** channel in rinpharmaconf slack ([**rinpharmaconf.slack.com**](rinpharmaconf.slack.com))
+    -  Contact form on [**rinpharma.com**](rinpharma.com)
     -  Email to **info@rinpharma.com**
 :::
 
@@ -153,8 +153,8 @@ Joe Zhu
 :::
 
 :::{.space-image}
-![](assets/R_Pharma_Store-1024.png){width=200px}
-![](assets/pledgeto-1024.png){width=200px}
+![](assets/QR_store.png){width=200px}
+![](assets/QR_pledge.png){width=200px}
 :::
 
 ## R/Pharma 2025 Virtual
@@ -162,23 +162,28 @@ Joe Zhu
 ::: {.small}
 -  Before/after R/Pharma and during breaks
     -  Network and visit Expo
-        -  Expo features booths from R/Pharma workshops
+        -  Expo features booths from R/Pharma workshops (recordings to follow)
         -  Coffee and chat 30 minutes before opening on each day
 -  Schedule: [https://rpharma-2026.sessionize.com/](https://rpharma-2026.sessionize.com/)
 -  Wednesday - check schedule for pre-recorded talks
 :::
 
 :::{.space-image}
-![](assets/Expo-1024.jpeg){width=200px}
-![](assets/Schedule-1024.jpeg){width=200px}
+![](assets/QR_schedule_2026.png){width=200px}
 :::
 
-## SPECIAL ANNOUNCEMENTS
+## SPECIAL ANNOUNCEMENT
 
+::: {.small}
 -  Today: R Submissions panel (2:05PM EDT)
     - R/Consortium: Ning Leng, Eric Nantz
     - FDA: Paul Schuette, Hye Soo Cho, YouKyeon Chang
     - Posit: Joe Cheng
-- look out for slido link in chat to submit questions
+- QR Code to slido below to submit questions
 - **This will not be recorded**
+:::
+
+:::{.space-image}
+![](assets/QR_panel.png){width=200px}
+:::
 
